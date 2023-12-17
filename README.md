@@ -107,29 +107,3 @@ crontab			lower		Cannot enable timing task function when missing
 net-tools		minimal		Cannot detect port occupancy normally when missing
 ubus/iproute-doc	minimal		The host address of the machine cannot be obtained normally when missing
 ```
-
-
-
-## Update log: 
-
-### [Click to view](https://github.com/juewuy/ShellClash/releases) 
-
-## Exchange feedback: 
-
-### [TG Discussion Group](https://t.me/ShellClash)
-
-## Related Q&A:
-
-### [See blog for details](https://juewuy.github.io)
-
-## Donate：
-
-​		Alipay									WeChat
-
-##### <img src="http://juewuy.github.io/post-images/1604390977172.png" style="zoom:50%;" /><img src="http://juewuy.github.io/post-images/1604391042406.png" style="zoom:50%;" />
-
-机场推荐：
---
-#### [Catnet](https://dash.catnet.uk/#/register?code=KOhfH9qD)<br>
-#### [Dler](https://dler.best/auth/register?affid=89698)<br>
-
